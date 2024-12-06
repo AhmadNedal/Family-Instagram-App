@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366556236216",
+    "project_id": "falmily-582da",
+    "storage_bucket": "falmily-582da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366556236216:android:4f945393bc1f4e461e274d",
+        "android_client_info": {
+          "package_name": "com.example.falmily"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLAgoiNZjGI4fQf29GNnlL5mhnCh6bfis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
